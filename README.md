@@ -33,3 +33,21 @@
 ```bash
 git clone https://github.com/yourusername/optiform.git
 cd optiform
+
+optiform/
+├── public/
+├── src/
+│   ├── components/      # React UI components
+│   ├── pages/           # Form, Survey, Dashboard
+│   ├── api/             # Axios calls
+│   ├── App.jsx
+│   └── index.js
+├── server/              # Node.js backend
+│   ├── routes/
+│   ├── controllers/
+│   ├── models/
+│   └── server.js
+├── .env
+├── package.json
+└── README.md
+
