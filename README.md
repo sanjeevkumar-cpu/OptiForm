@@ -21,9 +21,9 @@
 |-------------|----------------------------------|
 | Frontend    | React (Vite) + Tailwind CSS      |
 | Backend     | Node.js + Express.js             |
-| Database    | MySQL (or MongoDB if preferred)  |
-| Auth        | Supabase (optional, for user/admin login) |
-| Deployment  | Vercel (Frontend) + Render/Railway/Heroku (Backend) |
+| Database    | MySQL  |
+| Auth        | Supabase  |
+| Deployment  | Vercel  |
 
 ---
 
