@@ -51,21 +51,4 @@ cd server
 npm install
 npm start
 ```
-### 📂 Project Structure
-optiform/
-├── public/                  # Static assets
-├── src/
-│   ├── components/          # React UI components
-│   ├── pages/               # Form, Survey, Dashboard
-│   ├── api/                 # Axios or fetch API calls
-│   ├── App.jsx
-│   └── main.jsx
-├── server/                  # Node.js backend
-│   ├── routes/              # API routes
-│   ├── controllers/         # Logic handlers
-│   ├── models/              # DB models
-│   ├── config/              # DB connection
-│   └── server.js            # Express server entry
-├── .env                     # Environment variables
-├── package.json
-└── README.md
+
